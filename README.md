@@ -8,8 +8,6 @@ A production-ready REST API backend built with **FastAPI**, **PostgreSQL**, and 
 
 **Swagger API URL:** https://oms-backend-i4kj.onrender.com/api
 
-**GitHub URL:** https://github.com/Nihal2999/oms-backend
-
 > Note: Hosted on Render free tier — first request may take ~50 seconds to wake up.
 
 ---
